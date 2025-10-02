@@ -2,12 +2,19 @@
 
 The following Python script (figures.py) was written to generate graphs and benchmark figures for a Data Structures paper on Algorithm Analysis.
 
+The script requires Python 3.9+ and the following packages:
+
+- numpy
+- matplotlib
+
 ---
 
 ## Usage
 
-- Save `figures.py` in any folder.
-- Navigate there and run: `python figures.py`
+- Clone the [AlgoAnalysisFigures/](https://github.com/denv3rr/AlgoAnalysisFigures) repo into any folder.
+- Install packages. Run:
+  - `pip install -r requirements.txt`
+- Run the script: `python figures.py`
 
 > [!Note]
 > This will create a `figures/` folder with all the PNG files (and CSVs if you keep benchmarks on).

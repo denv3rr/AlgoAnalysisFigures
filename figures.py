@@ -400,7 +400,7 @@ if __name__ == "__main__":
 
     # Optional: run real benchmarks and produce bar charts + CSVs
     if RUN_BENCHMARKS:
-        print("\nRunning real benchmarks on this machine (this may take a bit)...")
+        print("\nRunning benchmarks on this machine (this may take a bit)...")
         figure_sorting_bars_and_csv()
         figure_searching_bars_and_csv()
 

@@ -1,0 +1,12 @@
+#ignore everything
+*
+
+#unignore
+!.gitignore
+!readme.md
+
+!*images
+!*.py
+!*.cpp
+!*.c
+!*.h

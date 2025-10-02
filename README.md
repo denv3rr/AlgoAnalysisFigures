@@ -8,6 +8,7 @@ The following Python script (figures.py) was written to generate graphs and benc
 
 - Save `figures.py` in any folder.
 - Navigate there and run: `python figures.py`
+
 > [!Note]
 > This will create a `figures/` folder with all the PNG files (and CSVs if you keep benchmarks on).
 
